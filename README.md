@@ -33,6 +33,18 @@
 </details>
 
 <details open>
+ <summary><h3>Latest Blog Posts</h3></summary>
+
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+</details>
+
+<details open>
  <summary><h3>GitHub Trophies</h3></summary>
 
 
