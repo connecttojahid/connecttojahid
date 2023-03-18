@@ -17,7 +17,7 @@
 </details>
 
 <details>
- <summary><h3>Recent Video</h3></summary>
+ <summary><h3>Latest YouTube Video</h3></summary>
 
 
 <!-- BEGIN VID -->
