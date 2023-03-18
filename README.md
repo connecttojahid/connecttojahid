@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Every+day%2C+learn+something+new.;Make+mistakes%2C+learn+from+them.;Work+hard%2C+stay+humble%2C+succeed.;Dream+big%2C+take+action%2C+succeed.;Small+steps+lead+to+big+leaps.;Believe+in+yourself%2C+believe+in+your+dreams.;Take+action%2C+make+things+happen.;Learn+from+yesterday%2C+excel+today%2C+conquer+tomorrow.;Pursue+your+passions%2C+make+them+your+profession.;Challenge+yourself+to+be+better+every+day.;Believe+in+yourself%2C+believe+in+your+abilities.;Invest+in+your+future%2C+take+action+today.;Your+limitations+are+only+in+your+mind.&font=Fira%20Code&center=true&width=440&height=45&color=808080&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Every+day%2C+learn+something+new.;Make+mistakes%2C+learn+from+them.;Work+hard%2C+stay+humble%2C+succeed.;Dream+big%2C+take+action%2C+succeed.;Small+steps+lead+to+big+leaps.;Take+action%2C+make+things+happen.;Pursue+your+passions%2C+make+them+your+profession.;Challenge+yourself+to+be+better+every+day.;Believe+in+yourself%2C+believe+in+your+abilities.;Invest+in+your+future%2C+take+action+today.;Your+limitations+are+only+in+your+mind.&font=Fira%20Code&center=true&width=440&height=45&color=808080&vCenter=true&pause=1000&size=22" />
    </p>
 
 <p align="center">
