@@ -83,4 +83,6 @@
   </p>
   <br/>
 
+---
+
 <img alt="Contributions" title="Contributions" src="https://github.com/connecttojahid/connecttojahid/blob/contributions/snake.svg"/>
