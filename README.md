@@ -55,4 +55,4 @@
 
 
 
-![Contribution](https://github.com/connecttojahid/connecttojahid/blob/output/github-contribution-grid-snake.svg)
+![Contributions](https://github.com/connecttojahid/connecttojahid/blob/output/github-contribution-grid-snake.svg)
