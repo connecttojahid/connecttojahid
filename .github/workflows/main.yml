@@ -1,4 +1,4 @@
-name: Vid
+name: Main
 on:
   schedule:
     # Runs every day, At 12:00 AM
