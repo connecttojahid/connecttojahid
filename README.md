@@ -36,9 +36,9 @@
  <summary><h3>Latest Blog Posts</h3></summary>
 
 
-<!-- BEGIN BL -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- END BL -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
