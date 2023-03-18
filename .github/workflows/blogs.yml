@@ -1,8 +1,7 @@
 name: Blogs
 on:
   schedule:
-
-    - cron: '0 * * * *'
+  - cron: "0 22 * * *"
   workflow_dispatch:
 
 jobs:
