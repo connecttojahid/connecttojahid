@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "6"
-          feed_list: "https://"
+          feed_list: "https://news.google.com/rss"
