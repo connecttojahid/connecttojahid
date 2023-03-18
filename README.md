@@ -1,6 +1,6 @@
   <p align="center">
-<img alt="YouTube Channel" title="YouTube Channel" src="https://komarev.com/ghpvc/?username=connecttojahid&style=for-the-badge&color=29bf12"/>
-  <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/github/last-commit/connecttojahid/connecttojahid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
+<img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=connecttojahid&style=for-the-badge&color=29bf12"/>
+  <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/connecttojahid/connecttojahid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
    </p>
 
 <details open>
@@ -56,7 +56,7 @@
  <summary><h3>GitHub Trophies</h3></summary>
 
 
-![](https://github-profile-trophy.vercel.app/?username=connecttojahid&column=8&theme=gruvbox&no-frame=true)
+<img alt="GitHub Trophies" title="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=connecttojahid&column=8&theme=gruvbox&no-frame=true"/>
 
 ---
 
@@ -66,7 +66,7 @@
  <summary><h3>Random Dev Quote</h3></summary>
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img alt="Random Dev Quote" title="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 ---
 
@@ -87,4 +87,4 @@
   <br/>
 
 
-![Contributions](https://github.com/connecttojahid/connecttojahid/blob/contributions/snake.svg)
+<img alt="Contributions" title="Contributions" src="https://github.com/connecttojahid/connecttojahid/blob/contributions/snake.svg"/>
