@@ -18,9 +18,9 @@
  <summary><h3>Recent Video</h3></summary>
 
 
-<!-- BEGIN YOUTUBE-VIDEOS -->
+<!-- BEGIN VID -->
 
-<!-- END YOUTUBE-VIDEOS -->
+<!-- END VID -->
 
 ---
 
