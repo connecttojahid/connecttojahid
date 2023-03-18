@@ -9,7 +9,7 @@
          <img alt="Twitter Account" title="Twitter Account" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
       <a href="https://www.instagram.com/connecttojahid">
          <img alt="Instagram Account" title="Instagram Account" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/connecttojahid">
+      <a href="https://www.linkedin.com/in/connecttojahid">
          <img alt="Linkedin Account" title="Linkedin Account" src="https://img.shields.io/badge/Linkedin-%230072b1.svg?logo=Linkedin&logoColor=white"/></a>
    </p>
 
