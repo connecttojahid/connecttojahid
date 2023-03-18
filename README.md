@@ -6,7 +6,7 @@
       <a href="https://www.youtube.com/channel/UCA_8UJgFWmFQ4byY0OaYxYA?sub_confirmation=1">
          <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a> 
       <a href="mailto:mail@jahid.eu.org">
-         <img alt="Mail Account" title="Mail Account" src="https://img.shields.io/badge/Mail-%23FF0000.svg?logo=Mail&logoColor=white"/></a> 
+         <img alt="Mail Account" title="Mail Account" src="https://img.shields.io/badge/GMail-%23FF0000.svg?logo=GMail&logoColor=white"/></a> 
       <a href="">
          <img alt="FaceBook Page" title="FaceBook Page" src="https://img.shields.io/badge/FaceBook-%234267B2.svg?logo=FaceBook&logoColor=white"/></a>
       <a href="https://twitter.com/connecttojahid">
