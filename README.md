@@ -1,4 +1,5 @@
-<center>T</center>
+![](https://komarev.com/ghpvc/?username=connecttojahid&style=for-the-badge)
+
 <details open>
  <summary><h3>Social</h3></summary>
    <p align="left">
