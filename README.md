@@ -37,12 +37,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [What Does .com Stand for: Origins and Definition](https://domainwheel.com/what-does-com-stand-for/)
-- [How To Become A Food Blogger: a Step-by-Step Guide](https://domainwheel.com/how-to-become-a-food-blogger/)
-- [.net vs .org: What is the difference and which one is better?](https://domainwheel.com/net-vs-org/)
-- [Can You Run a Business From Home? What You Need to Know](https://domainwheel.com/can-you-run-a-business-from-home/)
-- [How to Create an Online Store &lpar;the Easy Way&rpar;](https://domainwheel.com/how-to-create-an-online-store/)
-- [How To Create a Website for Affiliate Marketing](https://domainwheel.com/how-to-create-a-website-for-affiliate-marketing/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
