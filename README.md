@@ -1,4 +1,4 @@
-<h1 align="center">Jahid Hasan</h1>
+<h2 align="center">Jahid Hasan</h2>
 
 
 <p align="center">
