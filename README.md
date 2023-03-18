@@ -1,6 +1,6 @@
 <p align="center">
 
-<h1>Jahid Hasan</h1>
+<h1 align="center">Jahid Hasan</h1>
 
    </p>
 
