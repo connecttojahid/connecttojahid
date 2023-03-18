@@ -34,6 +34,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=connecttojahid&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
 </details>
 
@@ -43,6 +44,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
 </details>
 
