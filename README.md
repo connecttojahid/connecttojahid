@@ -36,7 +36,7 @@
  <summary><h3>GitHub Trophies</h3></summary>
 
 
-![](https://github-profile-trophy.vercel.app/?username=connecttojahid&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=connecttojahid&column=8&theme=gruvbox&no-frame=true)
 
 ---
 
