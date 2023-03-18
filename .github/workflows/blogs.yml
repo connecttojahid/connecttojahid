@@ -14,4 +14,3 @@ jobs:
         with:
           max_post_count: "6"
           feed_list: "https://news.google.com/rss"
-          output_type: html
