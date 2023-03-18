@@ -1,5 +1,6 @@
   <p align="center">
-<img alt="YouTube Channel" title="YouTube Channel" src="https://komarev.com/ghpvc/?username=connecttojahid&style=for-the-badge&color=29bf12"/>     ![](https://img.shields.io/github/last-commit/connecttojahid/connecttojahid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge)
+<img alt="YouTube Channel" title="YouTube Channel" src="https://komarev.com/ghpvc/?username=connecttojahid&style=for-the-badge&color=29bf12"/>
+  <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/github/last-commit/connecttojahid/connecttojahid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
    </p>
 
 <details open>
