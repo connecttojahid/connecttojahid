@@ -1,6 +1,8 @@
 <h1 align="center">Jahid Hasan</h1>
 
 
+<details open>
+ <summary><h3>Social</h3></summary>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Every+day%2C+learn+something+new.;Make+mistakes%2C+learn+from+them.;Work+hard%2C+stay+humble%2C+succeed.;Dream+big%2C+take+action%2C+succeed.;Small+steps+lead+to+big+leaps.;Take+action%2C+make+things+happen.&font=Fira%20Code&center=true&width=440&height=45&color=808080&vCenter=true&pause=1000&size=22" />
    </p>
@@ -9,9 +11,6 @@
 <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=connecttojahid&style=for-the-badge&color=29bf12"/>
   <img alt="Last Update" title="Last Update" src="https://img.shields.io/github/last-commit/connecttojahid/connecttojahid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=for-the-badge"/>
    </p>
-
-<details open>
- <summary><h3>Social</h3></summary>
    <p align="center">
       <a href="https://youtube.com/channel/UCA_8UJgFWmFQ4byY0OaYxYA?sub_confirmation=1">
          <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a> 
