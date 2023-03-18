@@ -66,7 +66,7 @@
 
 
 <details open> 
-  <summary><h2>Github Stats and Activity</h2></summary>
+  <summary><h3>Github Stats and Activity</h3></summary>
 
   <h3>Streak Stats</h3>
 
