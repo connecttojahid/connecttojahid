@@ -16,7 +16,7 @@
 ---
 </details>
 
-<details>
+<details open>
  <summary><h3>Latest YouTube Video</h3></summary>
 
 
@@ -28,7 +28,7 @@
 
 </details>
 
-<details>
+<details open>
  <summary><h3>GitHub Trophies</h3></summary>
 
 
@@ -37,7 +37,7 @@
 
 </details>
 
-<details>
+<details open>
  <summary><h3>Random Dev Quote</h3></summary>
 
 
