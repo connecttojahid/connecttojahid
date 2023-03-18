@@ -29,4 +29,4 @@ jobs:
           theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
           readme_path: README.md
           output_only: false
-          output_type: html
+          output_type: markdown
