@@ -1,4 +1,4 @@
-name: Main
+name: Video
 on:
   schedule:
     # Runs every day, At 12:00 AM
