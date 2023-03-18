@@ -40,7 +40,12 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Trump Says He Will Be Arrested on Tuesday as Indictment Looms - The New York Times](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMTgvdXMvcG9saXRpY3MvdHJ1bXAtaW5kaWN0bWVudC1hcnJlc3QtcHJvdGVzdHMuaHRtbNIBAA?oc=5)
+- [Box Office: ‘Shazam! Fury of the Gods’ Gets Down to Business With $11.7 Million Opening Day - Variety](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyMy9maWxtL2JveC1vZmZpY2Uvc2hhemFtLWZ1cnktb2YtdGhlLWdvZHMtZGMtY29taWNzLW9wZW5pbmctZGF5LTEyMzU1NTU5NzIv0gFmaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDIzL2ZpbG0vYm94LW9mZmljZS9zaGF6YW0tZnVyeS1vZi10aGUtZ29kcy1kYy1jb21pY3Mtb3BlbmluZy1kYXktMTIzNTU1NTk3Mi9hbXAv?oc=5)
+- [Two injured in Daytona Beach shooting overnight - WESH 2 Orlando](https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3Lndlc2guY29tL2FydGljbGUvdHdvLWluanVyZWQtZGF5dG9uYS1iZWFjaC1zaG9vdGluZy80MzM1NTQxM9IBTGh0dHBzOi8vd3d3Lndlc2guY29tL2FtcC9hcnRpY2xlL3R3by1pbmp1cmVkLWRheXRvbmEtYmVhY2gtc2hvb3RpbmcvNDMzNTU0MTM?oc=5)
+- [Taylor Swift review, Arizona: On the first night of her Eras tour, Swift seems as liberated as she’s ever been - The Independent](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2FydHMtZW50ZXJ0YWlubWVudC9tdXNpYy9yZXZpZXdzL3RheWxvci1zd2lmdC1yZXZpZXctYXJpem9uYS1lcmFzLXRvdXItYjIzMDM0ODEuaHRtbNIBdmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2FydHMtZW50ZXJ0YWlubWVudC9tdXNpYy9yZXZpZXdzL3RheWxvci1zd2lmdC1yZXZpZXctYXJpem9uYS1lcmFzLXRvdXItYjIzMDM0ODEuaHRtbD9hbXA?oc=5)
+- [What is a raccoon dog? - NPR](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyMy8wMy8xOC8xMTY0NTI3NTIzL3JhY2Nvb24tZG9ncy1jb3JvbmF2aXJ1cy13dWhhbi1tYXJrZXTSAQA?oc=5)
+- [Wyoming governor signs measure prohibiting abortion pills - ABC News](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvd2lyZVN0b3J5L3d5b21pbmctZ292ZXJub3Itc2lnbnMtbWVhc3VyZS1wcm9oaWJpdGluZy1hYm9ydGlvbi1waWxscy05Nzk1NTQwNtIBamh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL3dpcmVTdG9yeS93eW9taW5nLWdvdmVybm9yLXNpZ25zLW1lYXN1cmUtcHJvaGliaXRpbmctYWJvcnRpb24tcGlsbHMtOTc5NTU0MDY?oc=5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
