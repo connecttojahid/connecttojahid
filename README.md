@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=connecttojahid&style=for-the-badge)
 
+![](https://img.shields.io/github/last-commit/connecttojahid/connecttojahid?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
+
 <details open>
  <summary><h3>Social</h3></summary>
    <p align="left">
