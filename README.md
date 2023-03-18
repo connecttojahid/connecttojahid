@@ -2,7 +2,7 @@
 
 <details open>
  <summary><h3>Social</h3></summary>
-   <p align="left">
+   <p align="center">
       <a href="https://youtube.com/channel/UCA_8UJgFWmFQ4byY0OaYxYA?sub_confirmation=1">
          <img alt="YouTube Channel" title="YouTube Channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a> 
       <a href="https://facebook.com/connecttojahid">
