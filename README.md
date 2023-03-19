@@ -16,7 +16,7 @@
       <a href="https://facebook.com/connecttojahid">
          <img alt="FaceBook Page" title="FaceBook Page" src="https://img.shields.io/badge/FaceBook-%234267B2.svg?logo=FaceBook&logoColor=white"/></a>
       <a href="mailto:mail@jahid.eu.org">
-         <img alt="Mail Account" title="Mail Account" src="https://img.shields.io/badge/Mail-%23c71610.svg?logo=Gmail&logoColor=white"/></a>
+         <img alt="Mail Account" title="Mail Account" src="https://img.shields.io/badge/Mail-%23c14438.svg?logo=Gmail&logoColor=white"/></a>
       <a href="https://twitter.com/connecttojahid">
          <img alt="Twitter Account" title="Twitter Account" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/></a>
       <a href="https://instagram.com/connecttojahid">
